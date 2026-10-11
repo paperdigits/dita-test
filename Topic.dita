@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_n1d_1hh_wkc">
-    <title></title>
+    <title>I am the title now.</title>
     <body>
-        <p></p>
+        <p>
+            <note id="note_cmt_bhh_wkc">no way this is a note.</note>
+        </p>
     </body>
 </topic>
